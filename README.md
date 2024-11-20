@@ -14,7 +14,6 @@ Navigating this repo:
         eda subfolder : Contains all code related to exploratory data analysis.
 
 Related project materials:
-
     Links to decks:
         19th Nov 2024: [Project pitch deck](https://docs.google.com/presentation/d/1DS-YpW4dauN5akG_mkWMeZsEOIu3PSISttFcKM7_RVs/edit?usp=sharing)
 
