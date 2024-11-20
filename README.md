@@ -11,7 +11,7 @@ Status: in progress
 
 Navigating this repo:
 
-    utilities folder : Contains modules that will be used in supporting code in the dev and prod folders. E.g., helper_functions.py, file_paths.py, etc.
+    utilities folder : Contains modules that will be used in supporting code in the dev and prod folders.
     dev folder : Contains all code related to the development phase of this project.
         eda subfolder : Contains all code related to exploratory data analysis.
 
